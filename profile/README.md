@@ -1,6 +1,6 @@
 ## Wishbook Product
 
-A little bit of introduction to Wishbook is in [this slidedeck](https://drive.google.com/file/d/1I_fcIl8HzRljOVIWALxbv1DYKUO4NHca/view?usp=sharing) (including why it [scaled operations down](https://arvindsaraf.medium.com/note-to-wishbook-users-why-we-scaled-down-13280a3140)). The product offering is described in [this doc](https://drive.google.com/file/d/1XFCfX0CTbrHdXT15xZPywSSMQf78BObO/view?usp=sharing), along with a note on why this codebase is open-sourced out [link].
+A little bit of introduction to Wishbook is in [this slidedeck](https://drive.google.com/file/d/1I_fcIl8HzRljOVIWALxbv1DYKUO4NHca/view?usp=sharing) (including why it [scaled operations down](https://arvindsaraf.medium.com/note-to-wishbook-users-why-we-scaled-down-13280a3140)). The product offering is described in [this doc](https://drive.google.com/file/d/1XFCfX0CTbrHdXT15xZPywSSMQf78BObO/view?usp=sharing), along with a [note on why this is now open-sourced](https://arvindsaraf.medium.com/open-sourcing-wishbook-66464871128d).
 
 ## Repositories
 
