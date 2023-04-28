@@ -15,4 +15,4 @@ This codebase consists of the following repos:
 
 The setup work started in 2016 & hence ran on the state of the art then - ie on a few VMs (not dockerized, kubernetized). The Get APIs were cached at the Nginx level, and the MySQL had fine tuned query caching. These settings are not part of the repo. At it’s peak, a single database on a 8 node VM & a single API frontend on a smaller VM could serve about 10K daily active users.
 
-The code is not reviewed, lacks unit tests, and the variables may not be factored out. It is not currently being maintained. 
+Important - *the codebase is not being maintained*. The code is not reviewed, lacks unit tests, and the variables may not be factored out. It is not currently being maintained. 
